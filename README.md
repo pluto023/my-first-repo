@@ -1,1 +1,3 @@
 # my-first-repo
+This is my first git repository
+Owner : Enginner23
